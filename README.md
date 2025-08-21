@@ -32,6 +32,7 @@ Comparing to master, it will mainly has
 ### Start using crossbridge
 Download a copy of SDK for your OS at http://sourceforge.net/projects/crossbridge/files/
 Open README.html to get a basic idea of crossbridge usage.
-
+calendar with alarm 
+java
 ### License
 The code written by adobe is all MIT licensed, but crossbridge contains many different open source projects which have different licenses, check the source files before making any assumptions.
